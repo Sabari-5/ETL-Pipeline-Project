@@ -210,5 +210,4 @@ ETL Completed Successfully
 ## 👨‍💻 Author
 
 **Sabari R**
-
-Aspiring Data Engineer | Python | SQL | AWS | Snowflake | ETL | Power BI
+Data Engineer | Python | SQL | AWS | Snowflake | ETL | Power BI
